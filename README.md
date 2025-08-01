@@ -19,8 +19,8 @@
 <div align="left">
   <!-- GitHub Stats -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=trivndev&theme=dracula&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&custom_title=Trivndev%5CGithub%20Stats"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=trivndev&theme=default&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&custom_title=Trivndev%5CGithub%20Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=trivndev&theme=dracula&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&custom_title=Trivndev's%20Github%20Stats"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=trivndev&theme=default&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&custom_title=Trivndev's%20Github%20Stats" />
     <img src="https://github-readme-stats.vercel.app/api?username=trivndev&theme=default&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&custom_title=Trivndev%5CGithub%20Stats" height="150" alt="GitHub Stats" />
   </picture>
 
