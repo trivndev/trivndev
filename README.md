@@ -11,16 +11,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=trivndev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=trivndev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=trivndev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <picture>
-
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trivndev/trivndev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trivndev/trivndev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/trivndev/trivndev/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=trivndev&icon=0&color=0)](https://visitcount.itsvg.in)
