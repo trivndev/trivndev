@@ -10,6 +10,7 @@
   🌱 Currently learning Laravel and React.js<br>
   🔭 Working on a school project using Laravel<br>
   💡 I enjoy building clean, responsive interfaces with Tailwind and Livewire<br>
+  🛠️ Exploring backend concepts like authentication, REST APIs, and MySQL<br></p>
   🛠️ Exploring backend concepts like authentication and REST APIs<br></p>
 
 ###
@@ -20,11 +21,18 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trivndev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Trivndev's%20Github%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trivndev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=trivndev&theme=dracula&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&custom_title=Trivndev's%20Github%20Stats"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=trivndev&theme=default&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&custom_title=Trivndev's%20Github%20Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=trivndev&theme=default&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&custom_title=Trivndev's%20Github%20Stats" height="150" alt="GitHub Stats" />
+  </picture>
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=trivndev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=trivndev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trivndev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="Top Languages" />
+  </picture>
 </div>
 
 ###
