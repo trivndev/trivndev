@@ -10,7 +10,7 @@
   🌱 Currently learning Laravel and React.js<br>
   🔭 Working on a school project using Laravel<br>
   💡 I enjoy building clean, responsive interfaces with Tailwind and Livewire<br>
-  🛠️ Exploring backend concepts like authentication, REST APIs, and MySQL<br></p>
+  🛠️ Exploring backend concepts like authentication, REST APIs, and NoSQL<br></p>
   🛠️ Exploring backend concepts like authentication and REST APIs<br></p>
 
 ###
