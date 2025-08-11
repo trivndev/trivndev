@@ -11,7 +11,6 @@
   🔭 Working on a school project using Laravel<br>
   💡 I enjoy building clean, responsive interfaces with Tailwind and Livewire<br>
   🛠️ Exploring backend concepts like authentication, REST API, and NoSQL<br></p>
-  🛠️ Exploring backend concepts like authentication and REST API<br></p>
 
 ###
 
