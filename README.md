@@ -36,13 +36,6 @@
     alt="GitHub Streak"
   />
 </picture>
-
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=trivndev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=trivndev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trivndev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="Top Languages" />
-  </picture>
 </div>
 
 ###
