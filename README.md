@@ -7,8 +7,8 @@
 ###
 
 <p align="left"> 👋 Hi, I'm Trivndev — a web development enthusiast<br>
-  🌱 Currently learning Laravel and React.js<br>
-  🔭 Working on a school project using Laravel<br>
+  🌱 Currently learning React.js and Vue.js<br>
+  🔭 Working on a personal project using Laravel and Livewire<br>
   💡 I enjoy building clean, responsive interfaces with Tailwind and Livewire<br>
   🛠️ Exploring backend concepts like authentication, REST API, and NoSQL<br></p>
 
