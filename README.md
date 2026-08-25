@@ -30,11 +30,11 @@
     media="(prefers-color-scheme: light)" 
     srcset="https://streak-stats.demolab.com?user=trivndev&theme=default&hide_border=true" 
   />
-  <img 
+  <!-- <img 
     src="https://streak-stats.demolab.com?user=trivndev&theme=default&hide_border=true" 
     height="150" 
     alt="GitHub Streak"
-  />
+  /> -->
 </picture>
 </div>
 
